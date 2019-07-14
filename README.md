@@ -1,4 +1,15 @@
-# Quick Installation
+## Identity 3.0
+
+### Screenshots of Dapp
+
+![alt text](https://raw.githubusercontent.com/Mr-Parth/Identity-3.0/master/captured/1.png "Cap")
+![alt text](https://raw.githubusercontent.com/Mr-Parth/Identity-3.0/master/captured/2.png "Cap")
+![alt text](https://raw.githubusercontent.com/Mr-Parth/Identity-3.0/master/captured/3.png "Cap")
+![alt text](https://raw.githubusercontent.com/Mr-Parth/Identity-3.0/master/captured/4.png "Cap")
+![alt text](https://raw.githubusercontent.com/Mr-Parth/Identity-3.0/master/captured/5.png "Cap")
+
+
+### Quick Installation
 1) Download the project and decompress it into the folder **~/idm** (or wherever you want).
 2) Start ganache (or your private blockchain).
 3) Open the terminal (if you are using Windows you **must use the Power Shell**) in the folder **~/idm** and run the command:
